@@ -27,6 +27,27 @@ def possible(y,x,n) :
                                 return False
         return True
 
-possible(4,4,3)
-possible(4,4,5)
+
+def solve() :
+        global grid
+        for y in range(9) :
+                for x in range (9) :
+                        if grid[y][x] == 0 :
+                                for n in range(1,10) :
+                                        if possible(y,x,n) :
+                                                grid[y][x] = n
+                                                solve()         # rekursiver aufruf von solve
+                                                grid[y][x] = 0
+                                return
+        print(np.matrix(grid))
+        input("More?")
+
+##################################
+# Start mit solve()
+solve()
+
+
+###########################################
+# possible(4,4,3)
+# possible(4,4,5)
 
