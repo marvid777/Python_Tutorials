@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae150963-d3ec-459a-9bf8-5bca2f2d240e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Marie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Listen/Listen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Listen/PersonenListe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Datei/Datei.py" afterDir="false" />
+    <list default="true" id="ae150963-d3ec-459a-9bf8-5bca2f2d240e" name="Changes" comment="Alle unsere ersten Versuche">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "marvid777"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marvid777/Python_Tutorials",
+    "accountId": "1dca0be1-e2b0-4091-9cf4-51a0bab25677"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -42,27 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.01_Umfang.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Datei.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Listen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PersonenListe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/P_Projekte/Pycharm/Marie&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.01_Umfang.executor": "Debug",
+    "Python.Datei.executor": "Run",
+    "Python.Listen.executor": "Run",
+    "Python.PersonenListe.executor": "Run",
+    "Python.csv1.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.dict2.executor": "Run",
+    "Python.json_1.executor": "Run",
+    "Python.json_2.executor": "Run",
+    "Python.json_3.executor": "Run",
+    "Python.json_4.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/P_Projekte/Pycharm/Marie",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\P_Projekte\Pycharm\Marie\02_Listen" />
@@ -133,7 +135,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729343923630</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alle unsere ersten Versuche">
+      <option name="closed" value="true" />
+      <created>1733579578219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733579578219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alle unsere ersten Versuche" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alle unsere ersten Versuche" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
